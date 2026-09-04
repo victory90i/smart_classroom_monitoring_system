@@ -1,0 +1,3 @@
+[submodule "smart_classroom_monitoring_system"]
+	path = smart_classroom_monitoring_system
+	url = https://github.com/victory90i/smart_classroom_monitoring_system.git
